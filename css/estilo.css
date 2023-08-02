@@ -43,6 +43,8 @@ h3{
 }
 button{
     background-color: #3BA145;
+    height: 50px;
+    border-radius: 10px;
 }
 .bt{
     color: white;
