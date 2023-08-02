@@ -41,8 +41,8 @@ h3{
      text-align: center;
      padding-top: 30px;
 }
-button{
-    background-color: #3BA145;
+#boton{
+    background-color: #3BA145; 
     height: 50px;
     border-radius: 10px;
 }
